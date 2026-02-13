@@ -1,5 +1,9 @@
 # VK DPA | VK Dialog Photo Archiver
 
+[![Release](https://img.shields.io/github/v/release/ItsLouan/VK-Dialog-Photo-Archiver)](https://github.com/ItsLouan/VK-Dialog-Photo-Archiver/releases)
+[![License](https://img.shields.io/github/license/ItsLouan/VK-Dialog-Photo-Archiver)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.14%2B-blue)](https://www.python.org/)
+
 **VK Dialog Photo Archiver** — утилита на Python для локальной выгрузки всех фотографий из диалога ВКонтакте в удобную папку с именем собеседника.
 
 Автор: **ItsLouan**
@@ -67,6 +71,8 @@ pip install -r requirements.txt
 ---
 
 ## Установка и запуск GUI
+
+📦 **Готовый EXE для Windows** можно скачать в разделе [Releases](https://github.com/ItsLouan/VK-Dialog-Photo-Archiver/releases/latest).
 
 1. Клонируйте репозиторий:
 
