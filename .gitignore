@@ -4,6 +4,7 @@ __pycache__/
 *.pyd
 
 .env
+token.env
 .venv
 venv/
 env/
@@ -17,3 +18,5 @@ dist/
 .idea/
 
 config.json
+download_*/
+download_manifest.json
